@@ -1,5 +1,5 @@
 name: Crosschat
-main: ovh.klemms.crosschat
+main: ovh.klemms.crosschat.CrosschatBungee
 version: 1.0.0
 author: Klemms
 api-version: 1.13
